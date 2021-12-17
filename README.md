@@ -18,6 +18,7 @@ LAStoolsを用いて、txtからlasを作って表示するテスト。
 	* `-parse sxyz` : １列目をスキップ（`s`）する。2,3,4列目がxyzに相当。
 	* `-drop_z_below 0.5` : zが0.5以下をフィルタして落とす。
 	* おそらく、点の間引きも行われていると思われる。
+* [兵庫県のDSM](https://www.geospatial.jp/ckan/dataset/2010-2018-hyogo-geo-dsm)で試したら、それっぽい動きをした。
 
 ## 参考文献
 
